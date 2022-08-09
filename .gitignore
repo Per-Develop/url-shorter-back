@@ -35,3 +35,10 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Python bytecode #
+###################
+*.pyc
+tinyurl/__pycache__
+main/__pycache__
+main/migrations/__pycache__
